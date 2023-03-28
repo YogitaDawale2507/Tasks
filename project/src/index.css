@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'commissioner',sans-serif;
+  background-color: #f3f4f6;
+  }
+.btn{ 
+  background-color: hsl(176,72%,28%);
+}
+
+.desc {
+  color: hsl(176,72%,28%);
+}
+
+ .Mastercraft-logo{
+  position: absolute;
+  left:50%;
+  top:-13%;
+  transform:translateX(-50%);
+ }
+
+ .data > article:last-child h3 {
+  color: #9b9b9b;
+ }
+ .data > article:last-child p.desc-inner {
+  color: #9b9b9b;
+ }
+
+ .data > article:last-child button {
+  background-color: #9b9b9b;
+ }
